@@ -32,7 +32,7 @@ Together, the projects reflect a practical workflow: make the data trustworthy, 
 | Data Cleaning & Validation | Data preparation and quality checks | pandas, data validation, missing values, duplicate handling, export workflows | [Project 1](Project-1-Data-Cleaning/) |
 | Exploratory Data Analysis | Pattern discovery and visual analysis | pandas, NumPy, Matplotlib, Seaborn, summary statistics, visual storytelling | [Project 2](Project-2-EDA/) |
 | Relational SQL Analytics | SQL-based analytical querying | SQL, SQLite, relational thinking, schema design, analytical queries | [Project 3](Project-3-SQL-Analysis/) |
-| Data Visualization & Business Storytelling | Executive Communication & Decision Support | Data Visualization, Storytelling, Executive Reporting, Business Communication, PowerPoint | [Project 4](https://github.com/Mark1amgad/Task-4-MarkAmgad) |
+| Data Visualization & Business Storytelling | Executive Communication & Decision Support | Data Visualization, Storytelling, Executive Reporting, Business Communication, PowerPoint | [Project 4](Project-4-Data-Visualization) |
 
 ## Skills Demonstrated
 
